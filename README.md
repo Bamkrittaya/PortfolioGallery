@@ -1,8 +1,5 @@
 # PortfolioGallery
-"A curated portfolio gallery of coastal photography showcasing the beauty of nature through serene beachscapes and stunning sunsets
-
-## Introduction
-Welcome to the **PortfolioGallery** repository! This project showcases a curated collection of coastal photography, capturing serene beachscapes, stunning sunsets, and the tranquility of the ocean from around the world. Each photograph aims to highlight the natural beauty of the sky and sea, offering viewers a glimpse into peaceful coastal environments.
+This project showcases a curated collection of coastal photography, capturing serene beachscapes, stunning sunsets, and the tranquility of the ocean from around the world. Each photograph aims to highlight the natural beauty of the sky and sea, offering viewers a glimpse into peaceful coastal environments.
 
 
 ## Features
