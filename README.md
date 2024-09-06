@@ -4,13 +4,11 @@
 ## Introduction
 Welcome to the **PortfolioGallery** repository! This project showcases a curated collection of coastal photography, capturing serene beachscapes, stunning sunsets, and the tranquility of the ocean from around the world. Each photograph aims to highlight the natural beauty of the sky and sea, offering viewers a glimpse into peaceful coastal environments.
 
-## Live Preview
-[Insert link to live site or GitHub Pages if hosted]
 
 ## Features
-- Responsive design for all device sizes.
+- Responsive design for only iphone 12pro sizes.
 - Easy-to-navigate interface with a focus on visual content.
-- Categories showcasing different locations around the world.
+- Categories showcasing different locations in Thailand.
 - Interactive gallery with high-quality images.
 - Links to social media for further engagement.
 
